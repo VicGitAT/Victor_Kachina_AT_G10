@@ -1,6 +1,6 @@
 package homework.playground.essence.creatures.plant.flower;
 
-public class Rose extends Flowers{
+public class Rose extends Flowers {
 
     public Rose(int mass, String name) {
         super(mass, name);

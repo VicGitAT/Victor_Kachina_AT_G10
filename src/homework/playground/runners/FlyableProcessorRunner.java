@@ -38,8 +38,8 @@ public class FlyableProcessorRunner {
         flyableProcessor.runFlyable(aircraftCopter);
         flyableProcessor.runFlyable(aircraftPlane);
         flyableProcessor.runFlyable(aircraftRocket);
-        flyableProcessor.runFlyable((Flyable) insectFly);
-        flyableProcessor.runFlyable((Flyable) insectMosquito);
+        //flyableProcessor.runFlyable(insectFly); Insect не имплементится от Flyable
+        //flyableProcessor.runFlyable(insectMosquito);
         flyableProcessor.runFlyable(aCopter);
         flyableProcessor.runFlyable(aPlane);
         flyableProcessor.runFlyable(aRocket);

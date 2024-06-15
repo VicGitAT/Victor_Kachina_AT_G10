@@ -9,7 +9,7 @@ public abstract class Vertebrata extends Animal {
         super(mass, name);
     }
 
-    public void eat(Insect food){
+    public void eat(Insect food) {
         String message = String.format("I am %s and i am eating %s", name, food.getName());
         System.out.println(message);
     }

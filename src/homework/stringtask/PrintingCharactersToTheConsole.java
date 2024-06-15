@@ -1,10 +1,10 @@
 package homework.stringtask;
 
-public class Printingcharacterstotheconsole {
+public class PrintingCharactersToTheConsole {
 
-    public void printChar(String text){
+    public void printChar(String text) {
         String[] charText = text.split("");
-        for (String j : charText){
+        for (String j : charText) {
             System.out.println(j);
         }
     }

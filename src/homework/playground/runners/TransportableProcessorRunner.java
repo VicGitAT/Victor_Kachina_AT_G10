@@ -26,15 +26,15 @@ public class TransportableProcessorRunner {
         Aircraft aircraftCopter = new Copter(223, "AW109 Aircraft");
         Aircraft aircraftPlane = new Plane(3452, "Airbus a380 Aircraft");
         Aircraft aircraftRocket = new Rocket(7623, "Soyuz-FG Aircraft");
-        //Vehicle vehicleCar = new Car(23, "Tesla X Vehicle");
-        //Vehicle vehicleMoped = new Moped(12, "Honda EM1 Vehicle");
-        //Vehicle vehicleMotorbike = new Motorbike(12, "Suzuki GSX-R1000 Vehicle");
+        Vehicle vehicleCar = new Car(23, "Tesla X Vehicle");
+        Vehicle vehicleMoped = new Moped(12, "Honda EM1 Vehicle");
+        Vehicle vehicleMotorbike = new Motorbike(12, "Suzuki GSX-R1000 Vehicle");
         Flyable flyableCopter = new Copter(223, "AW109 Flyable");
         Flyable flyablePlane = new Plane(3452, "Airbus a380 Flyable");
         Flyable flyableRocket = new Rocket(7623, "Soyuz-FG Flyable");
-        //Rideable rideableCar = new Car(23, "Tesla X Rideable");
-        //Rideable rideableMoped = new Moped(12, "Honda EM1 Rideable");
-        //Rideable rideableMotorbike = new Motorbike(12, "Suzuki GSX-R1000 Rideable");
+        Rideable rideableCar = new Car(23, "Tesla X Rideable");
+        Rideable rideableMoped = new Moped(12, "Honda EM1 Rideable");
+        Rideable rideableMotorbike = new Motorbike(12, "Suzuki GSX-R1000 Rideable");
         Copter aCopter = new Copter(223, "AW109 Copter");
         Plane aPlane = new Plane(3452, "Airbus a380 Plane");
         Rocket aRocket = new Rocket(7623, "Soyuz-FG Rocket");
@@ -50,9 +50,20 @@ public class TransportableProcessorRunner {
         transportableProcessor.runTransportable(aircraftCopter);
         transportableProcessor.runTransportable(aircraftPlane);
         transportableProcessor.runTransportable(aircraftRocket);
-        transportableProcessor.runTransportable((Transportable) flyableCopter);
-        transportableProcessor.runTransportable((Transportable) flyablePlane);
-        transportableProcessor.runTransportable((Transportable) flyableRocket);
+        transportableProcessor.runTransportable(vehicleCar);
+        transportableProcessor.runTransportable(vehicleMoped);
+        transportableProcessor.runTransportable(vehicleMotorbike);
+/*      transportableProcessor.runTransportable(flyableCopter);
+        transportableProcessor.runTransportable(flyablePlane);
+        transportableProcessor.runTransportable(flyableRocket);
+        transportableProcessor.runTransportable(rideableCar);
+        transportableProcessor.runTransportable(rideableMoped);
+        transportableProcessor.runTransportable(rideableMotorbike);
+        на вход ожидается объект имплементирующий Transportable интерфейс,
+        а мы даём объекты имплементирующие Flyable и Rideable, при создании объектов мы это явно указывали
+        Flyable flyableRocket = new Rocket(7623, "Soyuz-FG Flyable");
+        Rideable rideableCar = new Car(23, "Tesla X Rideable");
+         */
         transportableProcessor.runTransportable(aCopter);
         transportableProcessor.runTransportable(aPlane);
         transportableProcessor.runTransportable(aRocket);

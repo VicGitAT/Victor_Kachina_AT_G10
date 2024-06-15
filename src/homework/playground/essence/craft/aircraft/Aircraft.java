@@ -10,3 +10,4 @@ public abstract class Aircraft extends Vehicles implements Flyable, Transportabl
         super(mass, name);
     }
 }
+
