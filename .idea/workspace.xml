@@ -6,34 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="c6e90474-4a93-4ba2-81fc-3934f430cd24" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/playground/essence/Flyable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/Rideable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/playground/essence/Rideable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/Transportable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/playground/essence/Transportable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/craft/Vehicles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/playground/essence/craft/Vehicles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/craft/aircraft/Aircraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/playground/essence/craft/aircraft/Aircraft.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/craft/field/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/playground/essence/craft/field/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/craft/field/Moped.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/playground/essence/craft/field/Moped.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/craft/field/Motorbike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/playground/essence/craft/field/Motorbike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/craft/hand/container/Bottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/playground/essence/craft/hand/container/Bottle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/craft/hand/container/Mug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/playground/essence/craft/hand/container/Mug.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/animal/vertebrata/Pigeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/playground/essence/creatures/animal/vertebrata/Pigeon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/animal/vertebrata/Raven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/playground/essence/creatures/animal/vertebrata/Raven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/animal/vertebrata/Vertebrata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/playground/essence/creatures/animal/vertebrata/Vertebrata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/plant/flower/Chamomile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/playground/essence/creatures/plant/flower/Chamomile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/plant/flower/Rose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/playground/essence/creatures/plant/flower/Rose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/plant/vegetable/Carrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/playground/essence/creatures/plant/vegetable/Carrot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/plant/vegetable/Potato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/playground/essence/creatures/plant/vegetable/Potato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/plant/vegetable/Radish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/playground/essence/creatures/plant/vegetable/Radish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/processors/TransportableProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/playground/processors/TransportableProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/runners/FlyableProcessorRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/playground/runners/FlyableProcessorRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/runners/TransportableProcessorRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/playground/runners/TransportableProcessorRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/stringtask/Printingcharacterstotheconsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/stringtask/PrintingCharactersToTheConsole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/stringtask/SearchForDuplicates.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,19 +34,47 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.FlyableProcessorRunner.executor": "Run",
+    "Application.GenericMethodsInGenericClassTRunner.executor": "Run",
     "Application.TransportableProcessorRunner.executor": "Run",
+    "Application.runner.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "hometask__day6__Generic",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TransportableProcessorRunner">
+  <component name="RunManager" selected="Application.GenericMethodsInGenericClassTwoParamsRunner">
     <configuration name="FlyableProcessorRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.playground.runners.FlyableProcessorRunner" />
       <module name="Victor_Kachina_AT_G10" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homework.playground.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericMethodsInGenericClassTRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.generic.GenericMethodsInGenericClassTRunner" />
+      <module name="Victor_Kachina_AT_G10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.generic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericMethodsInGenericClassTwoParamsRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.generic.GenericMethodsInGenericClassTwoParamsRunner" />
+      <module name="Victor_Kachina_AT_G10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,6 +97,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericMethodsInGenericClassTwoParamsRunner" />
+        <item itemvalue="Application.GenericMethodsInGenericClassTRunner" />
         <item itemvalue="Application.TransportableProcessorRunner" />
         <item itemvalue="Application.FlyableProcessorRunner" />
       </list>
