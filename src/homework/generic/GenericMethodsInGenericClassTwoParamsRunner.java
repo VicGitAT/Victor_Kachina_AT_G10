@@ -14,18 +14,18 @@ public class GenericMethodsInGenericClassTwoParamsRunner {
         System.out.println(stringInteger.genericMethodGenArgs("String", 5));
         System.out.println(stringInteger.genericMethodGenArgs("String"));
         stringInteger.genericMethodHalfGenArgs("String", "bugagashenki");
-        stringInteger.genericMethodHalfGenArgs("String1", 22, "bugagashenki" );
+        stringInteger.genericMethodHalfGenArgs("String1", 22, "bugagashenki");
 
         GenericMethodsInGenericClassTwoParams<String, Double> stringDouble = new GenericMethodsInGenericClassTwoParams<>();
         System.out.println(stringDouble.genericMethodGenArgs("String", 1.1));
         System.out.println(stringDouble.genericMethodGenArgs("String"));
         stringDouble.genericMethodHalfGenArgs("String", "bugagashenki");
-        stringDouble.genericMethodHalfGenArgs("String1", 22.22, "bugagashenki" );
+        stringDouble.genericMethodHalfGenArgs("String1", 22.22, "bugagashenki");
 
         GenericMethodsInGenericClassTwoParams<Integer, Integer> integerInteger = new GenericMethodsInGenericClassTwoParams<>();
         System.out.println(integerInteger.genericMethodGenArgs(5, 10));
         System.out.println(integerInteger.genericMethodGenArgs(7));
         integerInteger.genericMethodHalfGenArgs(2, "bugagashenki");
-        integerInteger.genericMethodHalfGenArgs(1, 22, "bugagashenki" );
+        integerInteger.genericMethodHalfGenArgs(1, 22, "bugagashenki");
     }
 }

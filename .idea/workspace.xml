@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c6e90474-4a93-4ba2-81fc-3934f430cd24" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/generic/GenericMethodsInGenericClassT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/generic/GenericMethodsInGenericClassT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/generic/GenericMethodsInGenericClassTRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/generic/GenericMethodsInGenericClassTRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/generic/GenericMethodsInGenericClassTwoParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/generic/GenericMethodsInGenericClassTwoParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/generic/GenericMethodsInGenericClassTwoParamsRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/generic/GenericMethodsInGenericClassTwoParamsRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,18 +35,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.FlyableProcessorRunner.executor": "Run",
-    "Application.GenericMethodsInGenericClassTRunner.executor": "Run",
-    "Application.TransportableProcessorRunner.executor": "Run",
-    "Application.runner.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "hometask__day6__Generic",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Day7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlyableProcessorRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericMethodsInGenericClassTRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericMethodsInGenericClassTwoParamsRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TransportableProcessorRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.runner.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;hometask__day6__Generic&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.GenericMethodsInGenericClassTwoParamsRunner">
+}</component>
+  <component name="RunManager" selected="Application.GenericMethodsInGenericClassTRunner">
     <configuration name="FlyableProcessorRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.playground.runners.FlyableProcessorRunner" />
       <module name="Victor_Kachina_AT_G10" />
@@ -97,8 +103,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GenericMethodsInGenericClassTwoParamsRunner" />
         <item itemvalue="Application.GenericMethodsInGenericClassTRunner" />
+        <item itemvalue="Application.GenericMethodsInGenericClassTwoParamsRunner" />
         <item itemvalue="Application.TransportableProcessorRunner" />
         <item itemvalue="Application.FlyableProcessorRunner" />
       </list>
