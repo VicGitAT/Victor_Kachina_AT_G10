@@ -34,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.FlyableProcessorRunner.executor": "Run",
+    "Application.OutputTextEnteredInConsoleToFile.executor": "Run",
     "Application.OutputTheEnterTextToConsole.executor": "Run",
     "Application.TransportableProcessorRunner.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -41,13 +42,26 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.OutputTheEnterTextToConsole">
+  <component name="RunManager" selected="Application.OutputTextEnteredInConsoleToFile">
     <configuration name="FlyableProcessorRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.playground.runners.FlyableProcessorRunner" />
       <module name="Victor_Kachina_AT_G10" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homework.playground.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutputTextEnteredInConsoleToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.inputoutput.OutputTextEnteredInConsoleToFile" />
+      <module name="Victor_Kachina_AT_G10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.inputoutput.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OutputTextEnteredInConsoleToFile" />
         <item itemvalue="Application.OutputTheEnterTextToConsole" />
         <item itemvalue="Application.TransportableProcessorRunner" />
         <item itemvalue="Application.FlyableProcessorRunner" />
