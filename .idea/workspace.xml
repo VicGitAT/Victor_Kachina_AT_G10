@@ -36,13 +36,14 @@
     "Application.FlyableProcessorRunner.executor": "Run",
     "Application.OutputTextEnteredInConsoleToFile.executor": "Run",
     "Application.OutputTheEnterTextToConsole.executor": "Run",
+    "Application.RemovingVowelLettersFromFile.executor": "Run",
     "Application.TransportableProcessorRunner.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "hometask__day7__input/output",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.OutputTextEnteredInConsoleToFile">
+  <component name="RunManager" selected="Application.RemovingVowelLettersFromFile">
     <configuration name="FlyableProcessorRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.playground.runners.FlyableProcessorRunner" />
       <module name="Victor_Kachina_AT_G10" />
@@ -82,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RemovingVowelLettersFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.inputoutput.RemovingVowelLettersFromFile" />
+      <module name="Victor_Kachina_AT_G10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.inputoutput.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TransportableProcessorRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.playground.runners.TransportableProcessorRunner" />
       <module name="Victor_Kachina_AT_G10" />
@@ -97,6 +111,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemovingVowelLettersFromFile" />
         <item itemvalue="Application.OutputTextEnteredInConsoleToFile" />
         <item itemvalue="Application.OutputTheEnterTextToConsole" />
         <item itemvalue="Application.TransportableProcessorRunner" />
