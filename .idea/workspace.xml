@@ -31,30 +31,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CountingNumberCharactersInText.executor": "Run",
-    "Application.Day8.executor": "Run",
-    "Application.Day8Task5.executor": "Run",
-    "Application.Day8task3.executor": "Run",
-    "Application.Day8task4.executor": "Run",
-    "Application.FlyableProcessorRunner.executor": "Run",
-    "Application.OutputTextEnteredInConsoleToFile.executor": "Run",
-    "Application.OutputTheEnterTextToConsole.executor": "Run",
-    "Application.ReadingFileAndWritingNumberCharactersNewFile.executor": "Run",
-    "Application.RemovingConsonantsFromFile.executor": "Run",
-    "Application.RemovingVowelLettersFromFile.executor": "Run",
-    "Application.TransportableProcessorRunner.executor": "Run",
-    "Application.day8_task2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "hometask__day7__input/output",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "File.Encoding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CountingNumberCharactersInText.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Day8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Day8Task5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Day8task3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Day8task4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlyableProcessorRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OutputTextEnteredInConsoleToFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OutputTheEnterTextToConsole.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReadingFileAndWritingNumberCharactersNewFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemovingConsonantsFromFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemovingVowelLettersFromFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TransportableProcessorRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.day8_task2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;hometask__day7__input/output&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.ReadingFileAndWritingNumberCharactersNewFile">
     <configuration name="CountingNumberCharactersInText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.inputoutput.CountingNumberCharactersInText" />
