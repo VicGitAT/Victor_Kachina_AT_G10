@@ -5,111 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6e90474-4a93-4ba2-81fc-3934f430cd24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/craft/aircraft/Aircraft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/craft/field/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/craft/hand/storable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/creatures/Crawlable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/liquids/Diesel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/liquids/Petrol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/material/Pourable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/material/Powerable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeTask/stringtask/SearchForNumbersInTheTextAndOutputThemToTheConsole.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/basetask/Bee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/basetask/Bee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/basetask/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/basetask/Mouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/basetask/Obstacle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/basetask/Obstacle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/basetask/Pineapple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/basetask/Pineapple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/basetask/Sauce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/basetask/Sauce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/basetask/TrainMethodsIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/basetask/TrainMethodsIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/basetask/TrainMethodsIfRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/basetask/TrainMethodsIfRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/basetask/TrainMethodsObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/basetask/TrainMethodsObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/basetask/TrainMethodsObjectsRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/basetask/TrainMethodsObjectsRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/basetask/TrainMethodsPrimitive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/basetask/TrainMethodsPrimitive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/basetask/TrainMethodsPrimitiveRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/basetask/TrainMethodsPrimitiveRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/basetask/TrainMethodsReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/basetask/TrainMethodsReturn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/basetask/TrainMethodsReturnRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/basetask/TrainMethodsReturnRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/basetask/TrainMethodsString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/basetask/TrainMethodsString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/basetask/TrainMethodsStringRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/basetask/TrainMethodsStringRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/cycletask/ChangeNumberPositionFirstAndLastElementArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/cycletask/ChangeNumberPositionFirstAndLastElementArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/cycletask/CycleTaskRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/cycletask/CycleTaskRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/cycletask/FillingTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/cycletask/FillingTheArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/cycletask/FindingTheMinimumElementOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/cycletask/FindingTheMinimumElementOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/cycletask/OutputOfArrayElementsToTheConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/cycletask/OutputOfArrayElementsToTheConsole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/cycletask/OutputOfIntArrayElementsMultipliedByVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/cycletask/OutputOfIntArrayElementsMultipliedByVariable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/cycletask/OutputToConsoleOfSquaringArrayElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/cycletask/OutputToConsoleOfSquaringArrayElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/cycletask/OutputToTheConsoleElementsIntArrayInReverseOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/cycletask/OutputToTheConsoleElementsIntArrayInReverseOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/cycletask/OutputToTheConsoleViaFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/cycletask/OutputToTheConsoleViaFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/cycletask/OutputToTheConsoleViaWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/cycletask/OutputToTheConsoleViaWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/cycletask/PrintingSeparators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/cycletask/PrintingSeparators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/cycletask/SortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/cycletask/SortArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/Flyable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/Rideable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/Rideable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/Transportable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/Transportable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/craft/Vehicles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/craft/Vehicles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/craft/aircraft/Aircraft.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/craft/aircraft/Copter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/craft/aircraft/Copter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/craft/aircraft/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/craft/aircraft/Plane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/craft/aircraft/Rocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/craft/aircraft/Rocket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/craft/field/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/craft/field/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/craft/field/Moped.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/craft/field/Moped.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/craft/field/Motorbike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/craft/field/Motorbike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/craft/field/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/craft/hand/container/Bottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/craft/hand/container/Bottle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/craft/hand/container/Can.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/craft/hand/container/Can.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/craft/hand/container/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/craft/hand/container/Container.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/craft/hand/container/Mug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/craft/hand/container/Mug.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/craft/hand/storable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/Crawlable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/creatures/animal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/animal/insect/Beetle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/creatures/animal/insect/Beetle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/animal/insect/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/creatures/animal/insect/Fly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/animal/insect/Insect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/creatures/animal/insect/Insect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/animal/insect/Mosquito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/creatures/animal/insect/Mosquito.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/animal/vertebrata/Crocodile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/creatures/animal/vertebrata/Crocodile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/animal/vertebrata/Pigeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/creatures/animal/vertebrata/Pigeon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/animal/vertebrata/Raven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/creatures/animal/vertebrata/Raven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/animal/vertebrata/Vertebrata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/creatures/animal/vertebrata/Vertebrata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/plant/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/creatures/plant/Plant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/plant/flower/Chamomile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/creatures/plant/flower/Chamomile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/plant/flower/Flowers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/creatures/plant/flower/Flowers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/plant/flower/Maylily.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/creatures/plant/flower/Maylily.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/plant/flower/Rose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/creatures/plant/flower/Rose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/plant/vegetable/Carrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/creatures/plant/vegetable/Carrot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/plant/vegetable/Potato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/creatures/plant/vegetable/Potato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/plant/vegetable/Radish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/creatures/plant/vegetable/Radish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/creatures/plant/vegetable/Vegetable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/creatures/plant/vegetable/Vegetable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/liquids/Diesel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/liquids/Liquid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/liquids/Liquid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/liquids/Petrol.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/liquids/Water.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/liquids/Water.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/material/Matter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/essence/material/Matter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/material/Pourable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/essence/material/Powerable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/processors/FlyableProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/processors/FlyableProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/processors/TransportableProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/processors/TransportableProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/runners/FlyableProcessorRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/runners/FlyableProcessorRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/runners/TransportableProcessorRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/runners/TransportableProcessorRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/utils/CoordinatesGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/utils/CoordinatesGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/playground/utils/DirectionGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/playground/utils/DirectionGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/pretask/AnotherVariableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/pretask/AnotherVariableExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/pretask/BooleanExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/pretask/BooleanExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/pretask/ConditionalExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/pretask/ConditionalExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/pretask/ConditionalLoopExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/pretask/ConditionalLoopExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/pretask/IncrementDecrementExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/pretask/IncrementDecrementExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/pretask/MathOperatorsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/pretask/MathOperatorsExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/pretask/MessageExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/pretask/MessageExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/pretask/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/pretask/MultiplicationTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/pretask/NumberPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/pretask/NumberPrinting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/pretask/SimpleLoopExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/pretask/SimpleLoopExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/pretask/SimpleMathExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/pretask/SimpleMathExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/pretask/StringManipulationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/pretask/StringManipulationExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/pretask/SumExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/pretask/SumExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/pretask/VariableAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/pretask/VariableAssignment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/pretask/VariableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/pretask/VariableExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/pretask/VariableReassignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/pretask/VariableReassignment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/stringtask/PrintingCharactersToTheConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/stringtask/PrintingCharactersToTheConsole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/stringtask/SearchEngineForDuplicateWordsInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/stringtask/SearchEngineForDuplicateWordsInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/workingwithconsoleandarrays/ArrayAndConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeTask/workingwithconsoleandarrays/ArrayAndConsole.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,13 +36,14 @@
     "Application.FlyableProcessorRunner.executor": "Run",
     "Application.SearchEngineForDuplicateWordsInString.executor": "Run",
     "Application.SearchForNumbersInTheTextAndOutputThemToTheConsole.executor": "Run",
+    "Application.TaskLog.executor": "Run",
     "Application.TransportableProcessorRunner.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "hometask__day5__playground__and__stringtask",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SearchForNumbersInTheTextAndOutputThemToTheConsole">
+  <component name="RunManager" selected="Application.TaskWithLog">
     <configuration name="FlyableProcessorRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hometask.playground.runners.FlyableProcessorRunner" />
       <module name="Victor_Kachina_AT_G10" />
@@ -186,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TaskWithLog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometask.stringtask.TaskWithLog" />
+      <module name="Victor_Kachina_AT_G10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometask.stringtask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TransportableProcessorRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hometask.playground.runners.TransportableProcessorRunner" />
       <module name="Victor_Kachina_AT_G10" />
@@ -201,6 +111,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TaskWithLog" />
         <item itemvalue="Application.SearchForNumbersInTheTextAndOutputThemToTheConsole" />
         <item itemvalue="Application.SearchEngineForDuplicateWordsInString" />
         <item itemvalue="Application.TransportableProcessorRunner" />
