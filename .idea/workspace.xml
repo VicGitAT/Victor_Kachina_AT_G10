@@ -33,32 +33,31 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CountingNumberCharactersInText.executor": "Run",
+    "Application.Day8.executor": "Run",
+    "Application.Day8Task5.executor": "Run",
+    "Application.Day8task3.executor": "Run",
+    "Application.Day8task4.executor": "Run",
     "Application.FlyableProcessorRunner.executor": "Run",
     "Application.OutputTextEnteredInConsoleToFile.executor": "Run",
     "Application.OutputTheEnterTextToConsole.executor": "Run",
+    "Application.ReadingFileAndWritingNumberCharactersNewFile.executor": "Run",
+    "Application.RemovingConsonantsFromFile.executor": "Run",
     "Application.RemovingVowelLettersFromFile.executor": "Run",
     "Application.TransportableProcessorRunner.executor": "Run",
+    "Application.day8_task2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "hometask__day7__input/output",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RemovingVowelLettersFromFile">
-    <configuration name="FlyableProcessorRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.playground.runners.FlyableProcessorRunner" />
-      <module name="Victor_Kachina_AT_G10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.playground.runners.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OutputTextEnteredInConsoleToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.inputoutput.OutputTextEnteredInConsoleToFile" />
+  <component name="RunManager" selected="Application.ReadingFileAndWritingNumberCharactersNewFile">
+    <configuration name="CountingNumberCharactersInText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.inputoutput.CountingNumberCharactersInText" />
       <module name="Victor_Kachina_AT_G10" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +69,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OutputTheEnterTextToConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.inputoutput.OutputTheEnterTextToConsole" />
+    <configuration name="Day8Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classwork.day8.Day8Task4" />
+      <module name="Victor_Kachina_AT_G10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classwork.day8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day8Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classwork.day8.Day8Task5" />
+      <module name="Victor_Kachina_AT_G10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classwork.day8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadingFileAndWritingNumberCharactersNewFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.inputoutput.ReadingFileAndWritingNumberCharactersNewFile" />
       <module name="Victor_Kachina_AT_G10" />
       <extension name="coverage">
         <pattern>
@@ -83,25 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemovingVowelLettersFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.inputoutput.RemovingVowelLettersFromFile" />
+    <configuration name="RemovingConsonantsFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.inputoutput.RemovingConsonantsFromFile" />
       <module name="Victor_Kachina_AT_G10" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homework.inputoutput.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TransportableProcessorRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.playground.runners.TransportableProcessorRunner" />
-      <module name="Victor_Kachina_AT_G10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.playground.runners.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemovingVowelLettersFromFile" />
-        <item itemvalue="Application.OutputTextEnteredInConsoleToFile" />
-        <item itemvalue="Application.OutputTheEnterTextToConsole" />
-        <item itemvalue="Application.TransportableProcessorRunner" />
-        <item itemvalue="Application.FlyableProcessorRunner" />
+        <item itemvalue="Application.ReadingFileAndWritingNumberCharactersNewFile" />
+        <item itemvalue="Application.CountingNumberCharactersInText" />
+        <item itemvalue="Application.RemovingConsonantsFromFile" />
+        <item itemvalue="Application.Day8Task5" />
+        <item itemvalue="Application.Day8Task4" />
       </list>
     </recent_temporary>
   </component>
