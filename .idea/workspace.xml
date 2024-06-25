@@ -22,10 +22,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2iKrkEofaarhcw2wVeXBpIiSv0b" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,22 +34,26 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Birds.executor": "Debug",
+    "Application.BubbleCollections.executor": "Run",
     "Application.Cars.executor": "Run",
+    "Application.ChairCollections.executor": "Run",
     "Application.Cities.executor": "Run",
     "Application.Countries.executor": "Run",
     "Application.DoublesNumber.executor": "Run",
     "Application.Elements.executor": "Run",
     "Application.Figures.executor": "Debug",
+    "Application.Noodles.executor": "Run",
     "Application.Numbers.executor": "Run",
+    "Application.SandCollections.executor": "Run",
     "Application.Task1Butterflies.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "hometask__day8__collections",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DoublesNumber">
-    <configuration name="Birds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.collectionstask.Birds" />
+  <component name="RunManager" selected="Application.ChairCollections">
+    <configuration name="BubbleCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.collectionstask.BubbleCollections" />
       <module name="Victor_Kachina_AT_G10" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Countries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.collectionstask.Countries" />
+    <configuration name="ChairCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.collectionstask.ChairCollections" />
       <module name="Victor_Kachina_AT_G10" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.collectionstask.Elements" />
+    <configuration name="Noodles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.collectionstask.Noodles" />
       <module name="Victor_Kachina_AT_G10" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.collectionstask.IntNumbers" />
+    <configuration name="SandCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.collectionstask.SandCollections" />
       <module name="Victor_Kachina_AT_G10" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChairCollections" />
+        <item itemvalue="Application.SandCollections" />
+        <item itemvalue="Application.BubbleCollections" />
+        <item itemvalue="Application.Noodles" />
         <item itemvalue="Application.DoublesNumber" />
-        <item itemvalue="Application.IntNumbers" />
-        <item itemvalue="Application.Elements" />
-        <item itemvalue="Application.Birds" />
-        <item itemvalue="Application.Countries" />
       </list>
     </recent_temporary>
   </component>
